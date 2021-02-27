@@ -1,5 +1,6 @@
 const DOMAIN_NAME = "https://api.openweathermap.org";
 
+//Update this to match user location
 let latitude = 51.5148;
 let longitude = -0.1469;
 let unit = "metric";
